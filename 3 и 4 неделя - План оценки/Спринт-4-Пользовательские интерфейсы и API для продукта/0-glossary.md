@@ -1,8 +1,4 @@
 # Глоссарий документа
-[Глоссарий по спринту №1](https://uic.gnivc.ru/gitea/gnivc-hackathon/analyst2024-team-7/src/branch/master/Спринт-1-Концепция%20сервиса/0-glossary.md) <br>
-[Глоссарий по спринту №2](https://uic.gnivc.ru/gitea/gnivc-hackathon/analyst2024-team-7/src/branch/master/Спринт-2-Требования%20и%20функциональная%20архитектура%20сервиса/0-glossary.md) <br>
-[Глоссарий по спринту №3](https://uic.gnivc.ru/gitea/gnivc-hackathon/analyst2024-team-7/src/branch/master/Спринт-3-Модели%20процессов%20и%20сущностей%20для%20сервиса/0-glossary.md) <br>
-
 
 Таблица 1 – Термины и сокращения  
 
